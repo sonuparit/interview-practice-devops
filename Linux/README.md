@@ -700,9 +700,3 @@ If I ranked these by importance for the types of roles you're targeting:
 18. SELinux/AppArmor
 19. cgroups & Namespaces
 20. Advanced Filesystems
-
----
-
-Looking at your progress over the past few days, you've already covered topics like `sed`, `nohup`, `fuser`, `lsof`, hard vs. soft links, and you've debugged real Linux disk I/O issues on your own system. You're moving beyond command memorization into production troubleshooting, which is exactly the direction that mid-level DevOps interviews expect.
-
-I think we can turn this into a structured **30-day Linux interview curriculum**, where each day focuses on one topic with theory, production scenarios, common interview questions, hands-on labs, troubleshooting exercises, and a mock interview. That would give you a comprehensive Linux preparation plan aligned with international DevOps interviews.
