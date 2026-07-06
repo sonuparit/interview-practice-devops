@@ -8,7 +8,7 @@ Whether you're transitioning into DevOps or strengthening your existing knowledg
 
 ## What You'll Learn
 
-This repo is targeted for Mid-Level DevOps Interview practice and you will learn almost everything which is important in:
+This repo is targeted for Mid-Level DevOps Interview practice for international market and you will learn almost everything which is important in:
 - Linux
 - Docker
 - K8s
