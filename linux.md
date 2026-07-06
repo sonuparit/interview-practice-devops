@@ -1,8 +1,6 @@
-This is exactly how I would prepare for a **mid-level DevOps engineer** interviewing for companies in the **US, Europe, Australia, and remote international startups**.
-
 One thing to keep in mind:
 
-> They don't want a Linux administrator. They want someone who can **operate production Linux servers**.
+> Recruiters don't want a Linux administrator. They want someone who can **operate production Linux servers**.
 
 That means interviewers care less about memorizing commands and more about understanding **why the OS behaves the way it does**.
 
